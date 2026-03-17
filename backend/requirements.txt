@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+passlib[argon2]
+joblib
+pandas
+scikit-learn
+python-multipart
+argon2-cffi
+python-dotenv
+groq
