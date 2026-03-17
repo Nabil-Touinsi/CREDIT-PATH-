@@ -1,0 +1,46 @@
+# =========================
+# FRONTEND
+# =========================
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# =========================
+# BACKEND
+# =========================
+backend/.venv/
+backend/__pycache__/
+backend/*.db
+backend/*.sqlite3
+
+# =========================
+# ENV FILES / SECRETS
+# =========================
+.env
+*.env
+backend/.env
+frontend/.env
+
+# =========================
+# PYTHON
+# =========================
+*.pyc
+*.pyo
+*.pyd
+.python-version
+
+# =========================
+# OS / EDITOR
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# LOGS
+# =========================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
